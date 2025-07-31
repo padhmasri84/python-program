@@ -1,0 +1,7 @@
+num=int(input("Enter the num:"))
+print(num+7)
+print(num**7)
+print(num-7)
+print(num%7)
+print("good job")
+print("happy")
