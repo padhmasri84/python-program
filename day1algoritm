@@ -1,0 +1,8 @@
+ALGORITHM:
+    1.start
+    2.declaration part body of the loop
+    3.check weather the condition is trure or false
+    4.if true the condition execute
+    5.otherwise go back to the decalation part body of the loop
+    6.end
+    
